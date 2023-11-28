@@ -1,0 +1,3 @@
+README
+This directory contains variant calling scripts for runing the ARC HPC system at the universtiy of Calgary. 
+Code is meant to be executed using sbatch and may require conda enviroments to be run
